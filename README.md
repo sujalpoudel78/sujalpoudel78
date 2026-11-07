@@ -8,9 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-24283b?style=for-the-badge&logo=flutter&logoColor=7dcfff)
 ![Android](https://img.shields.io/badge/Android-24283b?style=for-the-badge&logo=android&logoColor=9ece6a)
 ![Dart](https://img.shields.io/badge/Dart-24283b?style=for-the-badge&logo=dart&logoColor=7dcfff)
-![C](https://img.shields.io/badge/C-24283b?style=for-the-badge&logo=c&logoColor=7aa2f7)
-![C++](https://img.shields.io/badge/C%2B%2B-24283b?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
-![SQL](https://img.shields.io/badge/SQL-24283b?style=for-the-badge&logo=databricks&logoColor=bb9af7)
+![SQLite](https://img.shields.io/badge/SQL-24283b?style=for-the-badge&logo=databricks&logoColor=bb9af7)
 ![Bash](https://img.shields.io/badge/Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=9ece6a)
 
 ```console

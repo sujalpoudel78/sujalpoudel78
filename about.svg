@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" font-family="'JetBrains Mono','JetBrains Mono NF','Fira Code','Cascadia Code',Consolas,Menlo,monospace" font-size="15">
+  <rect width="800" height="260" rx="10" fill="#1a1b26"/>
+  <path d="M0 10a10 10 0 0 1 10-10h780a10 10 0 0 1 10 10v26H0z" fill="#16161e"/>
+  <circle cx="24" cy="18" r="6" fill="#f7768e"/>
+  <circle cx="46" cy="18" r="6" fill="#e0af68"/>
+  <circle cx="68" cy="18" r="6" fill="#9ece6a"/>
+  <text x="400" y="23" text-anchor="middle" fill="#565f89" font-size="12">@sujalpoudel78: ~</text>
+
+  <text x="24" y="68"><tspan fill="#9ece6a">@sujalpoudel78</tspan><tspan fill="#7aa2f7">:~$ </tspan><tspan fill="#c0caf5">cat about.txt</tspan></text>
+  <text x="24" y="94"><tspan fill="#bb9af7">Name</tspan><tspan x="130" fill="#565f89">: </tspan><tspan fill="#c0caf5">Sujal Poudel</tspan></text>
+  <text x="24" y="118"><tspan fill="#bb9af7">Role</tspan><tspan x="130" fill="#565f89">: </tspan><tspan fill="#c0caf5">Software Developer</tspan></text>
+  <text x="24" y="142"><tspan fill="#bb9af7">Focus</tspan><tspan x="130" fill="#565f89">: </tspan><tspan fill="#c0caf5">Mobile, Desktop &amp; Web Apps using Flutter</tspan></text>
+  <text x="24" y="166"><tspan fill="#bb9af7">Location</tspan><tspan x="130" fill="#565f89">: </tspan><tspan fill="#c0caf5">Unknown</tspan></text>
+  <text x="24" y="190"><tspan fill="#bb9af7">Status</tspan><tspan x="130" fill="#565f89">: </tspan><tspan fill="#ff9e64">Always Learning</tspan></text>
+
+  <text x="24" y="224"><tspan fill="#9ece6a">@sujalpoudel78</tspan><tspan fill="#7aa2f7">:~$ </tspan></text>
+  <rect x="186" y="211" width="9" height="16" fill="#c0caf5">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

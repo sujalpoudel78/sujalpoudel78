@@ -40,9 +40,7 @@
 @sujalpoudel78:~$ cat ~/contact.txt
 ```
 
-[![GitHub](https://img.shields.io/badge/github-sujalpoudel78-24283b?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/sujalpoudel78)
-[![Email](https://img.shields.io/badge/email-<you@example.com>-24283b?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:<you@example.com>)
-[![LinkedIn](https://img.shields.io/badge/linkedin-<handle>-24283b?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/<handle>)
+[![Email](https://img.shields.io/badge/email-poudelsujal78@gmail.com-24283b?style=flat-square&logo=gmail&logoColor=f7768e)](mailto:<you@example.com>)
 
 
 
